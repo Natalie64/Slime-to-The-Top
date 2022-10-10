@@ -1,0 +1,5 @@
+Objective - Grow as big as you can before shrinking to a certain size.
+
+	Controls
+	Mouse: moves slime
+	Click to restart
